@@ -1,6 +1,6 @@
 @font-face {
     font-family: agba;
-    src: url(./fonts/MacondoSwashCaps-Regular.ttf);
+    src: url(./fonts/Poppins/Poppins-Light.ttf);
 }
 
 @font-face {
@@ -18,10 +18,10 @@
 .message{
   color: white;
   width: 600px;
-  font-size: 70%;
+  font-size: 55%;
 transform: translate(-70%,-30%);
   text-align: justify;
-  font-family: Dom;
+  font-family: agba;
 }
 
 
